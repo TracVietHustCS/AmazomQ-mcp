@@ -1,0 +1,1 @@
+/home/ec2-user/sample-building-mcp-servers-with-rust/postgresql_server/target/release/postgresql_server: /home/ec2-user/sample-building-mcp-servers-with-rust/postgresql_server/src/main.rs /home/ec2-user/sample-building-mcp-servers-with-rust/postgresql_server/src/operator.rs

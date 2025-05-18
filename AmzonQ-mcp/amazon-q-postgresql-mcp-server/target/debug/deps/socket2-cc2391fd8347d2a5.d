@@ -1,0 +1,11 @@
+/home/ec2-user/sample-building-mcp-servers-with-rust/postgresql_server/target/debug/deps/libsocket2-cc2391fd8347d2a5.rmeta: /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/lib.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockaddr.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/socket.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockref.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sys/unix.rs
+
+/home/ec2-user/sample-building-mcp-servers-with-rust/postgresql_server/target/debug/deps/libsocket2-cc2391fd8347d2a5.rlib: /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/lib.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockaddr.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/socket.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockref.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sys/unix.rs
+
+/home/ec2-user/sample-building-mcp-servers-with-rust/postgresql_server/target/debug/deps/socket2-cc2391fd8347d2a5.d: /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/lib.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockaddr.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/socket.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockref.rs /home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sys/unix.rs
+
+/home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/lib.rs:
+/home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockaddr.rs:
+/home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/socket.rs:
+/home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sockref.rs:
+/home/ec2-user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.9/src/sys/unix.rs:
